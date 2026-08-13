@@ -1,6 +1,6 @@
 <!-- Welcome message -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=false&vCenter=true&width=500&lines=Hi+there!+I'm+Tomas+%F0%9F%91%8B;I'm+a+Software+Developer+in+training;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=false&vCenter=true&width=500&lines=Hi+there!+I'm+Tomas+%F0%9F%91%8B;I'm+a+Software+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 💻 I'm currently studying Software Development.
 
