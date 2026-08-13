@@ -33,18 +33,15 @@ I'm passionate about technology and software development. I'm currently focused 
 ## 📊 GitHub Statistics
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TomasCardona07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasCardona07&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TomasCardona07&theme=tokyonight&hide_border=true" />
 
 ##
 
-## 📫 Connect with me
-
-Feel free to reach out if you want to connect, collaborate or talk about technology.
 
 Have a great day! 👋
