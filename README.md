@@ -26,6 +26,7 @@ I'm passionate about technology and software development. I'm currently focused 
   <img height="40" width="40" alt="Git logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="40" width="40" alt="GitHub logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img height="40" width="40" alt="Linux logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img height="40" width="40" alt="PostgreSQL logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
 ##
@@ -36,10 +37,6 @@ I'm passionate about technology and software development. I'm currently focused 
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=TomasCardona07&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasCardona07&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TomasCardona07&theme=tokyonight&hide_border=true" />
 
 ##
 
@@ -55,9 +52,10 @@ A Java-based inventory management system developed as a long-term project to pra
 - Data structures
 - Git & GitHub
 - JSON persistence
+- PostgreSQL
 - Backend development
 
-🔗 Check it out: [Inventory Management System](TU_LINK)
+🔗 [Check it out](https://github.com/TomasCardona07/inventory-management-system)
 
 ##
 
