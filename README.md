@@ -32,13 +32,10 @@
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <div>
   <img height="180" src="https://ghstats.dev/api/card?username=TomasCardona07&theme=tokyonight" />
+  <img height="180" src="https://ghstats.dev/api/card?username=TomasCardona07&theme=tokyonight&type=languages" />
 </div>
-
-##
 
 ## 🚀 Featured Project
 
