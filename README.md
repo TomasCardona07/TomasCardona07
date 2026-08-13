@@ -8,7 +8,6 @@
 
 🎓 I'm a Cybersecurity Technician.
 
-I'm passionate about technology and software development. I'm currently focused on improving my programming skills, building personal projects, and learning more about backend development.
 
 - 🔭 I'm currently working on personal projects.
 - 🌱 I'm currently learning Java, backend development and software development.
