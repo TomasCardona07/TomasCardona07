@@ -1,6 +1,6 @@
 <!-- Welcome message -->
 
-# Hi there! My name is Tomas 👋
+# Hi there! I'm Tomas 👋
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 🎓 I'm a Cybersecurity Technician.
 
-I'm passionate about technology and software development. I'm currently focused on improving my programming skills and building personal projects while learning more about backend development.
+I'm passionate about technology and software development. I'm currently focused on improving my programming skills, building personal projects, and learning more about backend development.
 
 - 🔭 I'm currently working on personal projects.
 - 🌱 I'm currently learning Java, backend development and software development.
@@ -43,5 +43,22 @@ I'm passionate about technology and software development. I'm currently focused 
 
 ##
 
+## 🚀 Featured Project
+
+### Inventory Management System
+
+A Java-based inventory management system developed as a long-term project to practice software development concepts.
+
+**Current focus:**
+
+- Java & OOP
+- Data structures
+- Git & GitHub
+- JSON persistence
+- Backend development
+
+🔗 Check it out: [Inventory Management System](TU_LINK)
+
+##
 
 Have a great day! 👋
