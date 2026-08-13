@@ -2,15 +2,12 @@
 
 # Hi there! I'm Tomas 👋
 
-<br/>
-
-💻 I'm studying Analysis and Software Development.
+💻 I'm currently studying Software Development.
 
 🎓 I'm a Cybersecurity Technician.
 
-
 - 🔭 I'm currently working on personal projects.
-- 🌱 I'm currently learning Java, backend development and software development.
+- 🌱 I'm currently learning Java and backend development.
 - 💻 I enjoy learning by building projects and solving programming problems.
 - 🚀 My goal is to become a strong backend developer.
 
@@ -27,8 +24,6 @@
   <img height="40" width="40" alt="Linux logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img height="40" width="40" alt="PostgreSQL logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
-
-##
 
 ## 📊 GitHub Statistics
 
@@ -54,6 +49,6 @@ A Java-based inventory management system developed as a long-term project to pra
 
 🔗 [Check it out](https://github.com/TomasCardona07/inventory-management-system)
 
-##
+---
 
-Have a great day! 👋
+Thanks for visiting my profile! 👋
