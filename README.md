@@ -32,9 +32,10 @@
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TomasCardona07&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasCardona07&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://ghstats.dev/api/card?username=TomasCardona07&theme=tokyonight" />
 </div>
 
 ##
