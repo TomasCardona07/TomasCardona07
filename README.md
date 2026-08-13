@@ -1,51 +1,50 @@
-<!-- welcome message -->
+<!-- Welcome message -->
 
-# Hi there! My Name is Tomas.
+# Hi there! My name is Tomas 👋
 
 <br/>
 
-💻I'm studying Analysis and Software development
+💻 I'm studying Analysis and Software Development.
 
-🎓I’m a cybersecurity technician.
+🎓 I'm a Cybersecurity Technician.
 
-I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me:
+I'm passionate about technology and software development. I'm currently focused on improving my programming skills and building personal projects while learning more about backend development.
 
-- 🔭 I’m currently working on building personal projects
-- 🌱 I’m constantly learning backend techonolgies and keeping improving my skills.
-- 👯 I’m looking to collaborate on any project that aligns with my interests and expertise.
+- 🔭 I'm currently working on personal projects.
+- 🌱 I'm currently learning Java, backend development and software development.
+- 💻 I enjoy learning by building projects and solving programming problems.
+- 🚀 My goal is to become a strong backend developer.
 
-Here are programming languages or tools I frequently used:
+## 🛠️ Technologies & Tools
 
 <div>
-  <img height="30" width="42" alt="java logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="30" width="42" alt="python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="30" width="42" alt="rust logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
-  <img height="30" width="42" alt="go logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-  <img height="30" width="42" alt="nextjs logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img height="30" width="42" alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="30" width="42" alt="svelte logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-  <img height="30" width="42" alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="30" width="42" alt="docker logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="30" width="42" alt="raspberrypi logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
-  <img height="30" width="42" alt="arduino logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img height="40" width="40" alt="Java logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="40" width="40" alt="Python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40" width="40" alt="JavaScript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" width="40" alt="HTML logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" width="40" alt="CSS logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40" width="40" alt="Git logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="40" width="40" alt="GitHub logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="40" width="40" alt="Linux logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
 ##
 
-And here are some interesting grphs about my github activities:
+## 📊 GitHub Statistics
 
-<!-- grph -->
 <div>
-  <div>
-    <img height="150" alt="stats graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-    <img height="150" alt="languages graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/tokyonight/3-stats.svg" />
-  </div>
-  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile detail" />
-  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/snake/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
+<br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
 
-If you have any questions or just want to say hi, feel free to reach out.
+##
 
-Have a great day!
+## 📫 Connect with me
+
+Feel free to reach out if you want to connect, collaborate or talk about technology.
+
+Have a great day! 👋
