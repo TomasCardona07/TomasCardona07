@@ -35,6 +35,6 @@ PostgreSQL
 
 Backend development
 
-🔗 Check it out
+🔗 [Check it out](https://github.com/TomasCardona07/inventory-management-system)
 
 Thanks for visiting my profile! 👋
