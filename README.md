@@ -19,7 +19,7 @@
 <div>
 <img height="40" width="40" alt="Java logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img height="40" width="40" alt="Spring logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img height="40" width="40" alt="Spring Boot logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img height="40" width="40" alt="Spring Boot logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" />
 </div>
 
 📊 GitHub Statistics
