@@ -22,11 +22,6 @@
 <img height="40" width="40" alt="Spring Boot" src="https://cdn.simpleicons.org/springboot/6DB33F" />
 </div>
 
-📊 GitHub Statistics
-
-<div>
-<img height="180" src="https://ghstats.dev/api/card?username=TomasCardona07&theme=tokyonight" />
-</div>
 
 🚀 Featured Project
 Inventory Management System
